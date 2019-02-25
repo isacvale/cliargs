@@ -1,0 +1,15 @@
+{
+  "name": "cliargs",
+  "version": "1.0.0",
+  "description": "A simple argument interpreter for Node cli.",
+  "main": "cliargs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arguments",
+    "cli"
+  ],
+  "author": "isacvale",
+  "license": "ISC"
+}
