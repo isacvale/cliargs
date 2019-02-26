@@ -1,5 +1,5 @@
 {
-  "name": "cliargs",
+  "name": "@dvo/cliargs",
   "version": "1.0.0",
   "description": "A simple argument interpreter for Node cli.",
   "main": "index.js",
